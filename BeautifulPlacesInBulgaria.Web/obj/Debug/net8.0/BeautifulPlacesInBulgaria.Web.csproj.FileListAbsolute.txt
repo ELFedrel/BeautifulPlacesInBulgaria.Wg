@@ -144,3 +144,4 @@ C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgari
 C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web\bin\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.dll
 C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web\bin\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.pdb
 C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web\bin\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.pdb
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web\obj\Debug\net8.0\BeautifulPlacesInBulgaria.Web.sourcelink.json

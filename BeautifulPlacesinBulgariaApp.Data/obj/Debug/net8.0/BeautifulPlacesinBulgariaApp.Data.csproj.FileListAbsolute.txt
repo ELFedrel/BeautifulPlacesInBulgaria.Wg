@@ -15,3 +15,4 @@ C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgari
 C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.pdb
 C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.genruntimeconfig.cache
 C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data\obj\Debug\net8.0\ref\BeautifulPlacesinBulgariaApp.Data.dll
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.sourcelink.json

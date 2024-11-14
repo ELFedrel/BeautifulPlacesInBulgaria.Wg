@@ -9,3 +9,4 @@ C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgari
 C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Common\obj\Debug\net8.0\refint\BeautifulPlacesinBulgariaApp.Common.dll
 C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Common\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Common.pdb
 C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Common\obj\Debug\net8.0\ref\BeautifulPlacesinBulgariaApp.Common.dll
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Common\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Common.sourcelink.json
