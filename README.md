@@ -1,0 +1,1 @@
+# BeautifulPlacesInBulgaria.Wg
