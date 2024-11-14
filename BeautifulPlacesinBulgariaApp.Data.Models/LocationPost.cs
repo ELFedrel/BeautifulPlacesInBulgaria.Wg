@@ -5,30 +5,28 @@ namespace BeautifulPlacesinBulgariaApp.Data.Models
 {
     public class LocationPost
     {
+        [Key]
         public int Id { get; set; }
 
         [Required]
-        public string Title { get; set; }
-
-        public string Description { get; set; }
-
-        public string PhotoURL { get; set; }
+        public string Title { get; set; } = null!;
 
         [Required]
-        public DateTime DatePosted { get; set; }
+        public string Description { get; set; } = null!;
 
-      
-
-        // Foreign Key for the user who created the post
         [Required]
-        public string UserId { get; set; }
+        public string PhotoURL { get; set; } = null!;
 
-        // Navigation Properties
-        [ForeignKey("UserId")]
-        public ApplicationUser User { get; set; }
+
+        
+        [Required]
+        public Guid UserId { get; set; } 
+
+        [ForeignKey(nameof(UserId))]
+        public ApplicationUser User { get; set; } = null!;
 
         public ICollection<Comment> Comments { get; set; } = new List<Comment>();
-        public ICollection<Favorite> Favorites { get; set; } = new List<Favorite>();
+        public ICollection<FavoriteViews> Favorites { get; set; } = new List<FavoriteViews>();
         public ICollection<Tag> Tags { get; set; } = new List<Tag>();
        
     }

@@ -5,14 +5,13 @@ namespace BeautifulPlacesinBulgariaApp.Data.Models
 {
     public class Comment
     {
+        [Key]
         public Guid Id { get; set; } = Guid.NewGuid();
 
         [Required]
         public string Content { get; set; } = null!;
 
-        [Required]
-        public DateTime DateCreated { get; set; }
-
+     
         
         [Required]
         public Guid UserId { get; set; }
@@ -25,8 +24,12 @@ namespace BeautifulPlacesinBulgariaApp.Data.Models
         [ForeignKey(nameof(LocationPostId))]
         public LocationPost LocationPost { get; set; } = null!;
 
-       
 
-       
+
+        [Required]
+        public DateTime DateCreated { get; set; }
+
+
+
     }
 }
