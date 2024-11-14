@@ -1,0 +1,11 @@
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\bin\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.deps.json
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\bin\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.dll
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\bin\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.pdb
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.AssemblyInfoInputs.cache
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.AssemblyInfo.cs
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.dll
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\obj\Debug\net8.0\refint\BeautifulPlacesinBulgariaApp.Data.Models.dll
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.pdb
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\obj\Debug\net8.0\ref\BeautifulPlacesinBulgariaApp.Data.Models.dll

@@ -1,0 +1,11 @@
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web.ViewModels\bin\Debug\net8.0\BeautifulPlacesInBulgaria.Web.ViewModels.deps.json
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web.ViewModels\bin\Debug\net8.0\BeautifulPlacesInBulgaria.Web.ViewModels.dll
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web.ViewModels\bin\Debug\net8.0\BeautifulPlacesInBulgaria.Web.ViewModels.pdb
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web.ViewModels\obj\Debug\net8.0\BeautifulPlacesInBulgaria.Web.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web.ViewModels\obj\Debug\net8.0\BeautifulPlacesInBulgaria.Web.ViewModels.AssemblyInfoInputs.cache
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web.ViewModels\obj\Debug\net8.0\BeautifulPlacesInBulgaria.Web.ViewModels.AssemblyInfo.cs
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web.ViewModels\obj\Debug\net8.0\BeautifulPlacesInBulgaria.Web.ViewModels.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web.ViewModels\obj\Debug\net8.0\BeautifulPlacesInBulgaria.Web.ViewModels.dll
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web.ViewModels\obj\Debug\net8.0\refint\BeautifulPlacesInBulgaria.Web.ViewModels.dll
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web.ViewModels\obj\Debug\net8.0\BeautifulPlacesInBulgaria.Web.ViewModels.pdb
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesInBulgaria.Web.ViewModels\obj\Debug\net8.0\ref\BeautifulPlacesInBulgaria.Web.ViewModels.dll
