@@ -8,7 +8,6 @@ namespace BeautifulPlacesinBulgariaApp.Data.Models
     public class FavoriteViews
     {
         [Required]
-
         public Guid UserId { get; set; }
         [ForeignKey(nameof(UserId))]
         public ApplicationUser User { get; set; } = null!;

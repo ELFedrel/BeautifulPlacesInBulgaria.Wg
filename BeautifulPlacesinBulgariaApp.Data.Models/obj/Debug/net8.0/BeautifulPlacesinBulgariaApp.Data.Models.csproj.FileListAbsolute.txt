@@ -11,3 +11,6 @@ C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgari
 C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\obj\Debug\net8.0\ref\BeautifulPlacesinBulgariaApp.Data.Models.dll
 C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.csproj.AssemblyReference.cache
 C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.sourcelink.json
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\bin\Debug\net8.0\BeautifulPlacesinBulgariaApp.Common.dll
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\bin\Debug\net8.0\BeautifulPlacesinBulgariaApp.Common.pdb
+C:\Users\Ivo\source\repos\BeautifulPlacesInBulgaria.Web\BeautifulPlacesinBulgariaApp.Data.Models\obj\Debug\net8.0\BeautifulPlacesinBulgariaApp.Data.Models.csproj.CopyComplete

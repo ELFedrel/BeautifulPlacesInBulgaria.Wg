@@ -1657,6 +1657,16 @@
           "bin/placeholder/BeautifulPlacesInBulgaria.Web.ViewModels.dll": {}
         }
       },
+      "BeautifulPlacesinBulgariaApp.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/BeautifulPlacesinBulgariaApp.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BeautifulPlacesinBulgariaApp.Common.dll": {}
+        }
+      },
       "BeautifulPlacesinBulgariaApp.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1676,6 +1686,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "BeautifulPlacesinBulgariaApp.Common": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0"
         },
         "compile": {
@@ -4493,6 +4504,11 @@
       "type": "project",
       "path": "../BeautifulPlacesInBulgaria.Web.ViewModels/BeautifulPlacesInBulgaria.Web.ViewModels.csproj",
       "msbuildProject": "../BeautifulPlacesInBulgaria.Web.ViewModels/BeautifulPlacesInBulgaria.Web.ViewModels.csproj"
+    },
+    "BeautifulPlacesinBulgariaApp.Common/1.0.0": {
+      "type": "project",
+      "path": "../BeautifulPlacesinBulgariaApp.Common/BeautifulPlacesinBulgariaApp.Common.csproj",
+      "msbuildProject": "../BeautifulPlacesinBulgariaApp.Common/BeautifulPlacesinBulgariaApp.Common.csproj"
     },
     "BeautifulPlacesinBulgariaApp.Data/1.0.0": {
       "type": "project",

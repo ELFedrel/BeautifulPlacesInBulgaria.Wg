@@ -924,6 +924,11 @@
           "BeautifulPlacesInBulgaria.Web.ViewModels.dll": {}
         }
       },
+      "BeautifulPlacesinBulgariaApp.Common/1.0.0": {
+        "runtime": {
+          "BeautifulPlacesinBulgariaApp.Common.dll": {}
+        }
+      },
       "BeautifulPlacesinBulgariaApp.Data/1.0.0": {
         "dependencies": {
           "BeautifulPlacesinBulgariaApp.Data.Models": "1.0.0",
@@ -936,6 +941,7 @@
       },
       "BeautifulPlacesinBulgariaApp.Data.Models/1.0.0": {
         "dependencies": {
+          "BeautifulPlacesinBulgariaApp.Common": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0"
         },
         "runtime": {
@@ -1539,6 +1545,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "BeautifulPlacesInBulgaria.Web.ViewModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BeautifulPlacesinBulgariaApp.Common/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

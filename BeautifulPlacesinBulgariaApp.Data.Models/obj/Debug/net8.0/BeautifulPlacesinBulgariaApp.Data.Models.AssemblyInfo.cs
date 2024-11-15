@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BeautifulPlacesinBulgariaApp.Data.Models")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c2c869dd0c02536aa92b5cedc36f9b422ef2850")]
 [assembly: System.Reflection.AssemblyProductAttribute("BeautifulPlacesinBulgariaApp.Data.Models")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BeautifulPlacesinBulgariaApp.Data.Models")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
